@@ -191,4 +191,4 @@ def setup(client):
 
 
 
-client.run('chave_bot')
+client.run('chave_bot') #aqui basta você colocar o token do seu bot para ele funcionar
