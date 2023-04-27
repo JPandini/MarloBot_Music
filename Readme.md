@@ -1,5 +1,4 @@
-Esse projeto foi desenvolvido para um trabalho de escola
+### MarloBot 
 
-Bot de discord feito inteiramente com python e suas bibliotecas 
-
-Esse bot ele é programado para pesquisar a música que o usuario pede no youtube
+O MarloBot é um bot de música para discord feito inteiramente em Python, o bot trabalha com as músicas no YouTube.
+O usuário precisa estar em uma call para executar os comandos do bot. 
